@@ -1,6 +1,6 @@
 # Project highlights how, using CDK, the following:
 #   - Create Lambda Proxy Integration in API Gateway
-#   - Create Lambda and Dynamo AWS infrastructure using Python and CDK
+#   - Create Lambda, API Gateway, and Dynamo AWS infrastructure using Python and CDK
 #   - Expose an public REST API for the Lambda
 #   - Python Lambda function puts message to a Dynamo Database
 
